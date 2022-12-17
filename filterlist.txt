@@ -1,0 +1,7 @@
+!egemenfilterlist
+!YouTube Filterlist
+www.youtube.com##yt-button-shape
+www.youtube.com###country-code
+www.youtube.com###guide-links-secondary
+www.youtube.com###guide-links-primary
+www.youtube.com###copyright
