@@ -1,7 +1,40 @@
 !egemenfilterlist
-!YouTube Filterlist
+!https://github.com/cayiregemen/egemenfilterlist/edit/main/filterlist.txt
+! 2022-12-18 https://www.youtube.com
 www.youtube.com##yt-button-shape
 www.youtube.com###country-code
+www.youtube.com##.yt-spec-icon-badge-shape__badge
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com###copyright
 www.youtube.com###guide-links-secondary
 www.youtube.com###guide-links-primary
-www.youtube.com###copyright
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##.ytd-thumbnail-overlay-time-status-renderer.style-scope
+www.youtube.com##ytd-mini-guide-renderer.ytd-app.style-scope
+www.youtube.com##ytd-thumbnail-overlay-time-status-renderer.ytd-thumbnail.style-scope
+www.youtube.com##.ytd-rich-shelf-renderer.style-scope
+www.youtube.com###content > .ytd-rich-section-renderer.style-scope
+www.youtube.com##.ytd-video-renderer.style-scope.metadata-snippet-container
+www.youtube.com##.ytd-video-renderer.style-scope.metadata-snippet-container-one-line
+www.youtube.com###scroll-container > .yt-chip-cloud-renderer.style-scope
+www.youtube.com###show-hide-button
+www.youtube.com###toolbar
+www.youtube.com###action-buttons
+www.youtube.com##.ytd-comment-replies-renderer.style-scope.expander-header
+||i.ytimg.com/an/*/featured_channel.jpg$image
+www.youtube.com##.ytp-autonav-toggle-button-container
+www.youtube.com###movie_player > .ytp-chrome-bottom > .ytp-chrome-controls > .ytp-right-controls > .ytp-button.ytp-subtitles-button
+www.youtube.com##.ytp-button.ytp-miniplayer-button
+www.youtube.com###movie_player > .ytp-chrome-bottom > .ytp-chrome-controls > .ytp-left-controls > .ytp-button.ytp-next-button
+www.youtube.com###movie_player > .ytp-chrome-top > .ytp-chrome-top-buttons > .ytp-cards-button.ytp-button > .ytp-cards-button-icon-default > .ytp-cards-button-icon
+www.youtube.com###guide-button
+www.youtube.com##.ytd-video-description-music-section-renderer.style-scope.yt-simple-endpoint
+www.youtube.com###items > .ytd-structured-description-content-renderer.style-scope
+www.youtube.com##span.ytd-video-meta-block.style-scope.inline-metadata-item:nth-of-type(2)
+www.youtube.com##.ytd-compact-video-renderer.style-scope.badges > .ytd-badge-supported-renderer.style-scope.badge-style-type-simple.badge > span.ytd-badge-supported-renderer.style-scope
+www.youtube.com##.ytd-compact-video-renderer.style-scope.badges > .ytd-badge-supported-renderer.style-scope.badge-style-type-simple.badge
+www.youtube.com##ytd-thumbnail-overlay-bottom-panel-renderer.ytd-thumbnail.style-scope
+www.youtube.com##.yt-dropdown-menu.style-scope.dropdown-trigger
+
